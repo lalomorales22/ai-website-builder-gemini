@@ -1,0 +1,5 @@
+{
+  "name": "AI Website Builder",
+  "description": "A web application that uses AI to generate complete, visually stunning websites from a user's text description. It creates images, depth maps for parallax effects, and all necessary code, providing a downloadable HTML file.",
+  "requestFramePermissions": []
+}
