@@ -34,7 +34,7 @@ AI Website Builder is an intelligent tool that leverages Google's Gemini AI to c
 
 - **Node.js** (v14 or higher)
 - **npm** (comes with Node.js)
-- **Google Gemini API Key** - Get one from [Google AI Studio](https://makersuite.google.com/app/apikey)
+- **Google Gemini API Key** - Get one from [Google AI Studio](https://aistudio.google.com/app/apikey)
 
 ## 🛠️ Installation
 
@@ -178,7 +178,7 @@ This project is open source and available under the MIT License.
 ## 🔗 Links
 
 - View the app in AI Studio: [https://ai.studio/apps/drive/1wKGKrfGFEYu3cdCHcv1O2bctEUGoV6wx](https://ai.studio/apps/drive/1wKGKrfGFEYu3cdCHcv1O2bctEUGoV6wx)
-- Get your Gemini API Key: [Google AI Studio](https://makersuite.google.com/app/apikey)
+- Get your Gemini API Key: [Google AI Studio](https://aistudio.google.com/app/apikey)
 
 ## 🙏 Acknowledgments
 
